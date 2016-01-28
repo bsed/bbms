@@ -4,9 +4,6 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.util.Properties;
 
-/**
- * @author dong.hu@china.jinfonet.com
- */
 public class PropLoader {
 
     public static Properties getProperties(String file){
